@@ -5,8 +5,14 @@
 基于FullPage插件和CSS3动画，完成整个购物流程的动画
 
 ### 项目预览
-
-
+#### 1-2屏
+![1-2](https://github.com/AprildreamMI/Progect-Images/blob/master/car/1-2.gif)
+#### 2-4屏
+![2-4](https://github.com/AprildreamMI/Progect-Images/blob/master/car/2-4.gif)
+#### 4-6屏
+![4-6](https://github.com/AprildreamMI/Progect-Images/blob/master/car/4-6.gif)
+#### 6-8屏
+![6-8](https://github.com/AprildreamMI/Progect-Images/blob/master/car/6-8.gif)
 
 ### FullPage插件
 
